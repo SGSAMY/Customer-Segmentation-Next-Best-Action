@@ -2,9 +2,16 @@
 
 ## Overview
 
-This project demonstrates a Python-based customer segmentation and conversion propensity model using behavioural analytics and CACI Fresco-style demographic segmentation.
+This project demonstrates a Python-based customer segmentation and conversion propensity model using behavioural analytics and CACI Fresco-style demographic segmentation for financial products including 
 
-The solution prioritises customers for outbound marketing campaigns and recommends the most suitable next-best-action based on customer behaviour, engagement, financial value, and product maturity indicators.
+CTF
+JISA 
+ISA
+Over 50 
+
+The solution prioritises customers for outbound marketing campaigns and recommends the most suitable next-best-action based on customer behaviour, digital engagement, financial value, product maturity, Direct Debit status, and complaint history.
+
+The objective is to identify customers with the highest conversion potential and support more targeted, efficient, and data-driven campaign activity.
 
 ---
 
