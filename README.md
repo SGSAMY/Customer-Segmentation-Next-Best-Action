@@ -37,6 +37,33 @@ to identify customers with the highest conversion potential.
 
 ---
 
+## Model Logic
+
+The model uses rule-based scoring to calculate a conversion propensity score for each customer.
+
+Customers are scored using the following factors:
+
+Fresco segment: Higher scores are given to segments with stronger expected product suitability or affluence.
+Maturity date: Customers closer to maturity receive higher priority.
+Account value: Higher-value customers receive higher scores.
+Direct Debit status: Active DD increases the score; failed DD reduces it.
+Online engagement: Recent online login activity increases the score.
+Complaints history: Customers with multiple complaints receive a lower score.
+Previous campaign response: Customers who previously responded receive a higher score.
+Email and web engagement: Higher email open rates and website visits increase the score.
+Adviser relationship: Customers with an adviser receive an additional score.
+
+The final score is converted into priority bands:
+
+90+     Very High Priority
+70–89   High Priority
+40–69   Medium Priority
+<40     Low Priority
+
+The model then recommends a next-best-action based on the customer’s product type and priority level.
+
+---
+
 ## Key Features
 
 * Customer propensity scoring
