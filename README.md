@@ -96,7 +96,6 @@ The model then recommends a next-best-action based on the customer’s product t
 
 ## Project Structure
 
-```text
 Customer-Segmentation-Next-Best-Action/
 │
 ├── data/
@@ -104,8 +103,8 @@ Customer-Segmentation-Next-Best-Action/
 ├── output/
 ├── scripts/
 └── README.md
-```
 
+---
 
 ## Author
 Satheesh Gurusamy
