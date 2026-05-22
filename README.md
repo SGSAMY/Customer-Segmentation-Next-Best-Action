@@ -109,6 +109,3 @@ Customer-Segmentation-Next-Best-Action/
 
 ## Author
 Satheesh Gurusamy
-
-GitHub:
-https://github.com/SGSAMY
