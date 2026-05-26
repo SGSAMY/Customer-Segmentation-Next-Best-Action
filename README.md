@@ -96,6 +96,8 @@ The model then recommends a next-best-action based on the customer’s product t
 
 ## Project Structure
 
+
+```text
 Customer-Segmentation-Next-Best-Action/
 │
 ├── data/
@@ -103,6 +105,28 @@ Customer-Segmentation-Next-Best-Action/
 ├── output/
 ├── scripts/
 └── README.md
+```
+---
+
+## Model Outputs
+
+The solution generates:
+
+- Customer conversion propensity score
+- Priority classification bands
+- Recommended next-best-action
+- Campaign targeting indicators
+- Product recommendation signals
+- Excel output file for outbound campaign teams
+- Segmented customer marketing lists
+
+---
+
+## Business Value
+
+This project demonstrates how customer behavioural analytics and segmentation data can be transformed into actionable marketing intelligence.
+
+The solution helps marketing and CRM teams prioritise high-conversion customers, improve campaign targeting efficiency, optimise outbound engagement strategies, and support data-driven customer acquisition and retention initiatives.
 
 ---
 
