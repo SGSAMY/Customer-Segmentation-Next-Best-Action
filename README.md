@@ -104,6 +104,7 @@ Customer-Segmentation-Next-Best-Action/
 ├── notebooks/
 ├── output/
 ├── scripts/
+├── requirements.txt
 └── README.md
 ```
 ---
