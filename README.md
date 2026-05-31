@@ -132,4 +132,14 @@ The solution helps marketing and CRM teams prioritise high-conversion customers,
 ---
 
 ## Author
-Satheesh Gurusamy
+
+### Satheesh Gurusamy
+
+## Connect
+
+### LinkedIn
+
+https://www.linkedin.com/in/satheeshgurusamy
+
+### GitHub:
+https://github.com/SGSAMY
